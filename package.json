@@ -1,0 +1,14 @@
+{
+  "name": "dojo-2023-11-09-diamond-kata",
+  "version": "1.0.0",
+  "description": "Diamond kata with chatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.34.6"
+  }
+}
